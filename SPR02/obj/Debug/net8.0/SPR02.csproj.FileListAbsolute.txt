@@ -12,3 +12,4 @@
 /Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.pdb
 /Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.genruntimeconfig.cache
 /Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/ref/SPR02.dll
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.sourcelink.json
